@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\65835\desktop\data structures\assignment 3\exp3.5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584590502 source:c:\users\65835\desktop\data structures\part a\assignments\assignment 3\exp3.5\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586256646 source:c:\users\65835\desktop\data structures\assignments\stacks and queues\sandq 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1586257743 source:c:\users\65835\desktop\cz1007\part b\assignments\stacks and queues\sandq 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
